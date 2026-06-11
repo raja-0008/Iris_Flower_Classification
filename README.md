@@ -10,7 +10,7 @@ The objective of this project is to develop a machine learning model capable of 
 ### Project Details:
 
  1.Iris Species : The dataset consists of iris flowers, specifically from the species setosa, versicolor, and virginica.
-2. Key Measurements: The essential characteristics used for classification include sepal length, sepal width, petal length, and petal width.
-3. Machine Learning Model: The project involves the creation and training of a machine learning model to accurately classify iris flowers based on their measurements.
+ 2. Key Measurements: The essential characteristics used for classification include sepal length, sepal width, petal length, and petal width.
+ 3. Machine Learning Model: The project involves the creation and training of a machine learning model to accurately classify iris flowers based on their measurements.
 
 This project's significance lies in its potential to streamline and automate the classification of iris species, which can have broader applications in botany, horticulture, and environmental monitoring.
